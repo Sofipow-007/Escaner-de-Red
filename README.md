@@ -1,4 +1,4 @@
-# TP-N-14_Escaner-de-Red
+# Escaner de Red (incluye IP, NetStat, DNS)
 
 ## Descripción del proyecto
 
